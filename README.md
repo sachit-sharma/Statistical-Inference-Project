@@ -1,2 +1,2 @@
 # Statistical-Inference-Project
-This project aimed to to investigate whether there was a statistically significant difference in salary between professionals working remotely  and those working in a traditional office setting. It utilises hypothesis testing and theory based statistical methods. 
+This project aimed to to investigate whether there was a statistically significant difference in salary between professionals working remotely  and those working in a traditional office setting. It utilises hypothesis testing and theory based statistical methods. This was a group project, conducted for Statistical Inference for Data Science (STAT201) at UBC in Fall 2024 in collaboration with Anton Chen (chenanton), Andrew Ong (Andrew-Andrew0302), Aayush Sharma (aayus-h). 
